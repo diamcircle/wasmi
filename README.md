@@ -1,7 +1,7 @@
 # soroban-wasmi
 
 This is a fork of https://github.com/paritytech/wasmi with a small set of local
-patches applied for customizing interaction with https://soroban.stellar.org
+patches applied for customizing interaction with https://soroban.diamnet.org
 
 It may be abandoned at some point if Soroban is able to meet its needs strictly
 with upstream interfaces. The fork was for expedience during development.
